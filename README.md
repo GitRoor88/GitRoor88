@@ -1,4 +1,4 @@
-Coinbase Watchdog
+61a96abf9cae79a66a551f7ed349aea120124a4fCoinbase Watchdog
 ========
 
 A Datadog codification framework.
